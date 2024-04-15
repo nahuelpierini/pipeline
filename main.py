@@ -7,6 +7,6 @@ def make_lower_case(word2: str):
 
 if __name__ == "__main__":
     word = make_upper_case("hola")
-    word2 = make_lower_case("CHAU")
+    word2 = make_lower_case("COMO")
     print(word)
     print(word2)
